@@ -1,0 +1,736 @@
+Device Model:D861A8
+Hardware Version:V1.0
+System Version:4.001.00LR028.0
+Build Date:2021-06-11 15:23:11
+SN:ND012007001446
+
+1
+Log Time & Event : 2021-12-16 17:12:47   Saved <Image Settings> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <Image Settings> config.
+
+IP Address:Local Login 
+Username:admin
+Group:admin
+Camera:3 
+
+Period 2 :
+Noise Reduction :50-->90
+
+2
+Log Time & Event : 2021-12-16 17:12:47   Saved <Image Settings> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <Image Settings> config.
+
+IP Address:Local Login 
+Username:admin
+Group:admin
+Camera:3 
+
+Period 1 :
+Noise Reduction :50-->90
+
+3
+Log Time & Event : 2021-12-16 17:12:47   Saved <Image Settings> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <Image Settings> config.
+
+IP Address:Local Login 
+Username:admin
+Group:admin
+Camera:3 
+
+Period 2 :
+Enhance :30-->16
+
+4
+Log Time & Event : 2021-12-16 17:12:47   Saved <Image Settings> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <Image Settings> config.
+
+IP Address:Local Login 
+Username:admin
+Group:admin
+Camera:3 
+
+Period 1 :
+Enhance :30-->16
+
+5
+Log Time & Event : 2021-12-16 17:12:06   User logged in.<Local Login>
+Type : ACCOUNT-->User logged in.
+Log User : admin
+Details:
+IP Address:Local Login
+Username:admin
+Group:admin
+
+
+6
+Log Time & Event : 2021-12-16 17:08:59   S.M.A.R.T
+Type : Storage-->S.M.A.R.T
+Log User : default
+Details:
+Port:1
+No.:ZN1KPY7X
+Model:ST1000DM0031SB102
+Description:
+ID     Threshold     Value:Worst     Health Status     Attribute
+199     0                       200   :200         OK                          Ultra ATA CRC Error Rate
+
+
+7
+Log Time & Event : 2021-12-16 17:08:59   S.M.A.R.T
+Type : Storage-->S.M.A.R.T
+Log User : default
+Details:
+Port:1
+No.:ZN1KPY7X
+Model:ST1000DM0031SB102
+Description:
+ID     Threshold     Value:Worst     Health Status     Attribute
+184     97                     100   :100         OK                          End-to-End Error
+187     0                       100   :100         OK                          Reported Uncorrect
+188     0                       100   :100         OK                          Command Timeout
+189     0                       100   :100         OK                          High Fly Writes
+193     0                       100   :100         OK                          Load/Unload Cycle Count
+194     0                       34      :9              OK                          Temperature
+195     0                       22      :1              OK                          Hardware ECC Recovered
+196     0                       100   :100         OK                          Reallocated Event Count
+197     0                       100   :100         OK                          Current Pending Sector Count
+198     0                       100   :100         OK                          Off-line Uncorrectable
+
+
+8
+Log Time & Event : 2021-12-16 17:08:59   S.M.A.R.T
+Type : Storage-->S.M.A.R.T
+Log User : default
+Details:
+Port:1
+No.:ZN1KPY7X
+Model:ST1000DM0031SB102
+Description:
+ID     Threshold     Value:Worst     Health Status     Attribute
+1      6                       69      :63            OK                          Read Error Rate
+3      0                       98      :97            OK                          Spin Up Time
+4      0                       100   :100         OK                          Start/Stop Count
+5      10                     100   :100         OK                          Reallocated Sector Count
+7      30                     77      :60            OK                          Seek Error Rate
+9      0                       98      :98            OK                          Power On Hours Count
+10     97                     100   :100         OK                          Spin-up Retry Count
+12     0                       100   :100         OK                          Power On/Off Count
+180     0                       100   :100         OK                          Unused Rsvd Blk Cnt Tot
+183     0                       100   :100         OK                          Runtime Bad Block
+
+
+9
+Log Time & Event : 2021-12-16 17:08:04   Saved <P2P> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <P2P> config.
+
+IP Address:Local Login 
+
+P2P :No-->Yes
+
+10
+Log Time & Event : 2021-12-16 17:08:04   Saved <P2P> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <P2P> config.
+
+IP Address:Local Login 
+
+P2P :Yes-->No
+
+11
+Log Time & Event : 2021-12-16 17:08:03   Total Disk<1>, Operating Disk<->
+Type : Storage-->Disk
+Log User : default
+Details:
+Total Disk: <1>
+Operating Disk: <->
+
+
+12
+Log Time & Event : 2021-12-16 17:08:03   No Disk
+Type : Storage-->No Disk
+Log User : default
+Details:
+Event Type:No Disk
+Event Action:Event Begin
+
+
+13
+Log Time & Event : 2021-12-16 17:08:03   <Video Loss : 7>
+Type : Alarm Type-->Video Loss
+Log User : default
+Details:
+Event Type:Video Loss
+Event Action:Event Begin
+Camera:<7>
+Start Time:2021-12-16 17:08:03
+
+
+14
+Log Time & Event : 2021-12-16 17:08:03   <Video Loss : 6>
+Type : Alarm Type-->Video Loss
+Log User : default
+Details:
+Event Type:Video Loss
+Event Action:Event Begin
+Camera:<6>
+Start Time:2021-12-16 17:08:03
+
+
+15
+Log Time & Event : 2021-12-16 17:08:03   <Video Loss : 4>
+Type : Alarm Type-->Video Loss
+Log User : default
+Details:
+Event Type:Video Loss
+Event Action:Event Begin
+Camera:<4>
+Start Time:2021-12-16 17:08:03
+
+
+16
+Log Time & Event : 2021-12-16 17:08:03   <Video Loss : 2>
+Type : Alarm Type-->Video Loss
+Log User : default
+Details:
+Event Type:Video Loss
+Event Action:Event Begin
+Camera:<2>
+Start Time:2021-12-16 17:08:03
+
+
+17
+Log Time & Event : 2021-12-16 17:08:03   No Disk
+Type : Storage-->No Disk
+Log User : default
+Details:
+Event Type:No Disk
+Event Action:Event Begin
+
+
+18
+Log Time & Event : 2021-12-16 17:08:02   Backup Device Found[16-12-2021 05:08:02PM]
+Type : Playback-->Backup Device Found
+Log User : 
+Details:
+Username:
+Group:
+
+
+19
+Log Time & Event : 2021-12-16 17:08:01   Backup Device Found[16-12-2021 05:08:01PM]
+Type : Playback-->Backup Device Found
+Log User : 
+Details:
+Username:
+Group:
+
+
+20
+Log Time & Event : 2021-12-16 17:07:59   Reboot with Flag [0x00]
+Type : System-->Reboot
+Log User : default
+Details:
+Reboot Symbol: 0x00
+Reboot Type: Normal Reboot
+
+
+21
+Log Time & Event : 2021-12-16 17:07:59   Shutdown [16-12-2021 05:06:46PM]
+Type : System-->Shutdown
+Log User : default
+Details:
+Shutdown Time: 16-12-2021 05:06:46PM
+
+
+22
+Log Time & Event : 2021-12-16 17:06:47   Saved <DISPLAY> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <DISPLAY> config.
+
+IP Address:Local Login 
+Username:admin
+Group:admin
+
+Resolution :1280*1024-->3840*2160@30fps
+Screen No. :Main Screen
+
+23
+Log Time & Event : 2021-12-16 17:06:44   Saved <DISPLAY> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <DISPLAY> config.
+
+IP Address:Local Login 
+Username:admin
+Group:admin
+
+Transparency :0%-->30%
+Screen No. :Main Screen
+
+24
+Log Time & Event : 2021-12-16 17:05:41   <Video Loss : 7>
+Type : Alarm Type-->Video Loss
+Log User : admin
+Details:
+Event Type:Video Loss
+Event Action:Event End
+Camera:<7>
+End Time:2021-12-16 17:04:41
+
+
+25
+Log Time & Event : 2021-12-16 17:05:41   <Video Loss : 6>
+Type : Alarm Type-->Video Loss
+Log User : admin
+Details:
+Event Type:Video Loss
+Event Action:Event End
+Camera:<6>
+End Time:2021-12-16 17:04:41
+
+
+26
+Log Time & Event : 2021-12-16 17:05:41   <Video Loss : 4>
+Type : Alarm Type-->Video Loss
+Log User : admin
+Details:
+Event Type:Video Loss
+Event Action:Event End
+Camera:<4>
+End Time:2021-12-16 17:04:41
+
+
+27
+Log Time & Event : 2021-12-16 17:05:41   <Video Loss : 2>
+Type : Alarm Type-->Video Loss
+Log User : admin
+Details:
+Event Type:Video Loss
+Event Action:Event End
+Camera:<2>
+End Time:2021-12-16 17:04:41
+
+
+28
+Log Time & Event : 2021-12-16 17:04:47   Sync System Time
+Type : System-->Sync System Time
+Log User : admin
+Details:
+Details:2021-12-16 15:49:01 >> 2021-12-16 17:04:47
+Type:NTP
+
+
+29
+Log Time & Event : 2021-12-16 16:48:39   User logged in.<Local Login>
+Type : ACCOUNT-->User logged in.
+Log User : admin
+Details:
+IP Address:Local Login
+Username:admin
+Group:admin
+
+
+30
+Log Time & Event : 2021-12-16 16:48:39   Add User<Onvif:admin>
+Type : ACCOUNT-->Add User
+Log User : 
+Details:
+Type:Onvif
+Add User:Onvif:admin--admin
+IP Address:Local Login
+Username:
+Group:
+
+
+31
+Log Time & Event : 2021-12-16 16:48:39   Add Group<user>
+Type : ACCOUNT-->Add Group
+Log User : 
+Details:
+Operation: Succeed
+Group Name: user
+
+
+32
+Log Time & Event : 2021-12-16 16:48:39   Add Group<admin>
+Type : ACCOUNT-->Add Group
+Log User : 
+Details:
+Operation: Succeed
+Group Name: admin
+
+
+33
+Log Time & Event : 2021-12-16 16:46:33   S.M.A.R.T
+Type : Storage-->S.M.A.R.T
+Log User : default
+Details:
+Port:1
+No.:ZN1KPY7X
+Model:ST1000DM0031SB102
+Description:
+ID     Threshold     Value:Worst     Health Status     Attribute
+199     0                       200   :200         OK                          Ultra ATA CRC Error Rate
+
+
+34
+Log Time & Event : 2021-12-16 16:46:33   S.M.A.R.T
+Type : Storage-->S.M.A.R.T
+Log User : default
+Details:
+Port:1
+No.:ZN1KPY7X
+Model:ST1000DM0031SB102
+Description:
+ID     Threshold     Value:Worst     Health Status     Attribute
+184     97                     100   :100         OK                          End-to-End Error
+187     0                       100   :100         OK                          Reported Uncorrect
+188     0                       100   :100         OK                          Command Timeout
+189     0                       100   :100         OK                          High Fly Writes
+193     0                       100   :100         OK                          Load/Unload Cycle Count
+194     0                       35      :9              OK                          Temperature
+195     0                       22      :1              OK                          Hardware ECC Recovered
+196     0                       100   :100         OK                          Reallocated Event Count
+197     0                       100   :100         OK                          Current Pending Sector Count
+198     0                       100   :100         OK                          Off-line Uncorrectable
+
+
+35
+Log Time & Event : 2021-12-16 16:46:33   S.M.A.R.T
+Type : Storage-->S.M.A.R.T
+Log User : default
+Details:
+Port:1
+No.:ZN1KPY7X
+Model:ST1000DM0031SB102
+Description:
+ID     Threshold     Value:Worst     Health Status     Attribute
+1      6                       69      :63            OK                          Read Error Rate
+3      0                       98      :97            OK                          Spin Up Time
+4      0                       100   :100         OK                          Start/Stop Count
+5      10                     100   :100         OK                          Reallocated Sector Count
+7      30                     77      :60            OK                          Seek Error Rate
+9      0                       98      :98            OK                          Power On Hours Count
+10     97                     100   :100         OK                          Spin-up Retry Count
+12     0                       100   :100         OK                          Power On/Off Count
+180     0                       100   :100         OK                          Unused Rsvd Blk Cnt Tot
+183     0                       100   :100         OK                          Runtime Bad Block
+
+
+36
+Log Time & Event : 2021-12-16 16:45:44   Saved <DISPLAY> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <DISPLAY> config.
+
+IP Address:Local Login 
+
+Transparency :30%-->0%
+Screen No. :Main Screen
+
+37
+Log Time & Event : 2021-12-16 16:45:41   Saved <Network> config.
+Type : System-->Save Config
+Log User : default
+Details:
+Saved <General Network> config.
+
+IP Address:Local Login 
+
+IP Address :192.168.1.108-->192.168.0.67
+Default Gateway :192.168.1.1-->192.168.0.1
+
+38
+Log Time & Event : 2021-12-16 16:45:37   Saved <P2P> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <P2P> config.
+
+IP Address:Local Login 
+
+P2P :No-->Yes
+
+39
+Log Time & Event : 2021-12-16 16:45:37   Saved <P2P> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <P2P> config.
+
+IP Address:Local Login 
+
+P2P :Yes-->No
+
+40
+Log Time & Event : 2021-12-16 16:45:37   <Video Loss : 7>
+Type : Alarm Type-->Video Loss
+Log User : default
+Details:
+Event Type:Video Loss
+Event Action:Event Begin
+Camera:<7>
+Start Time:2021-12-16 16:45:37
+
+
+41
+Log Time & Event : 2021-12-16 16:45:37   <Video Loss : 6>
+Type : Alarm Type-->Video Loss
+Log User : default
+Details:
+Event Type:Video Loss
+Event Action:Event Begin
+Camera:<6>
+Start Time:2021-12-16 16:45:37
+
+
+42
+Log Time & Event : 2021-12-16 16:45:37   <Video Loss : 4>
+Type : Alarm Type-->Video Loss
+Log User : default
+Details:
+Event Type:Video Loss
+Event Action:Event Begin
+Camera:<4>
+Start Time:2021-12-16 16:45:37
+
+
+43
+Log Time & Event : 2021-12-16 16:45:37   <Video Loss : 2>
+Type : Alarm Type-->Video Loss
+Log User : default
+Details:
+Event Type:Video Loss
+Event Action:Event Begin
+Camera:<2>
+Start Time:2021-12-16 16:45:37
+
+
+44
+Log Time & Event : 2021-12-16 16:45:37   Total Disk<1>, Operating Disk<->
+Type : Storage-->Disk
+Log User : default
+Details:
+Total Disk: <1>
+Operating Disk: <->
+
+
+45
+Log Time & Event : 2021-12-16 16:45:37   No Disk
+Type : Storage-->No Disk
+Log User : default
+Details:
+Event Type:No Disk
+Event Action:Event Begin
+
+
+46
+Log Time & Event : 2021-12-16 16:45:36   No Disk
+Type : Storage-->No Disk
+Log User : default
+Details:
+Event Type:No Disk
+Event Action:Event Begin
+
+
+47
+Log Time & Event : 2021-12-16 16:45:36   Saved <Network> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <UPnP> config.
+
+IP Address:Local Login 
+UDP
+External Port :37778-->35001
+
+48
+Log Time & Event : 2021-12-16 16:45:36   Saved <Network> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <UPnP> config.
+
+IP Address:Local Login 
+TCP
+External Port :37777-->35000
+
+49
+Log Time & Event : 2021-12-16 16:45:36   Saved <DDNS> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <DDNS> config.
+
+IP Address:Local Login 
+
+Type :null
+Server Address :null-->ddns.lorexddns.net
+Domain Name :null-->.lorexddns.net
+Interval :null-->5
+Password :******-->******
+Enable :No-->No
+Port :null-->8245
+Username :null-->
+Protocol :null-->Flir DDNS
+
+50
+Log Time & Event : 2021-12-16 16:45:36   Saved <Network> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <UPnP> config.
+
+IP Address:Local Login 
+UDP
+Internal Port :37778-->35001
+
+51
+Log Time & Event : 2021-12-16 16:45:36   Saved <Network> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <UPnP> config.
+
+IP Address:Local Login 
+TCP
+Internal Port :37777-->35000
+
+52
+Log Time & Event : 2021-12-16 16:45:35   Backup Device Found[16-12-2021 04:45:35PM]
+Type : Playback-->Backup Device Found
+Log User : 
+Details:
+Username:
+Group:
+
+
+53
+Log Time & Event : 2021-12-16 16:45:35   Backup Device Found[16-12-2021 04:45:35PM]
+Type : Playback-->Backup Device Found
+Log User : 
+Details:
+Username:
+Group:
+
+
+54
+Log Time & Event : 2021-12-16 16:45:33   Reboot with Flag [0x00]
+Type : System-->Reboot
+Log User : default
+Details:
+Reboot Symbol: 0x00
+Reboot Type: Normal Reboot
+
+
+55
+Log Time & Event : 2021-12-16 16:45:33   Shutdown [12-16-2021 04:44:20PM]
+Type : System-->Shutdown
+Log User : default
+Details:
+Shutdown Time: 12-16-2021 04:44:20PM
+
+
+56
+Log Time & Event : 2021-12-16 16:45:33   Saved <GENERAL> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <GENERAL> config.
+
+IP Address:Local Login 
+
+Holiday Enable :Yes-->No
+
+57
+Log Time & Event : 2021-12-16 16:45:32   Saved <PIR Alarm> config.
+Type : System-->Save Config
+Log User : default
+Details:
+Saved <PIR Alarm> config.
+
+IP Address:Local Login 
+
+Camera :8
+
+58
+Log Time & Event : 2021-12-16 16:45:32   Saved <PIR Alarm> config.
+Type : System-->Save Config
+Log User : default
+Details:
+Saved <PIR Alarm> config.
+
+IP Address:Local Login 
+
+Camera :5
+
+59
+Log Time & Event : 2021-12-16 16:45:32   Saved <PIR Alarm> config.
+Type : System-->Save Config
+Log User : default
+Details:
+Saved <PIR Alarm> config.
+
+IP Address:Local Login 
+
+Camera :1
+
+60
+Log Time & Event : 2021-12-16 15:48:56   Sync System Time
+Type : System-->Sync System Time
+Log User : admin
+Details:
+Details:2021-12-16 16:49:25 >> 2021-12-16 15:48:56
+Username:
+Group:
+Type:Network
+IP Address:
+
+
+61
+Log Time & Event : 2021-12-16 15:48:56   Saved <GENERAL> config.
+Type : System-->Save Config
+Log User : 
+Details:
+Saved <GENERAL> config.
+
+IP Address:Local Login 
+Username:admin
+Group:admin
+
+Date Format :MM DD YYYY-->DD MM YYYY
+
+62
+Log Time & Event : 2021-12-16 15:48:56   Saved <Server Address> config.
+Type : System-->Save Config
+Log User : admin
+Details:
+Saved <Server Address> config.
+
+IP Address:Local Login 
+Username:admin
+Group:admin
+
+Time Zone :UTC-05:00-->UTC-06:00
+
